@@ -26,7 +26,7 @@ params:
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
-  since: 2019
+  since: 2023
   social:
     - icon: fa fa-3x fa-facebook
       name: Facebook
