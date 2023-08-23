@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pesuruhjaya sumpah kuantan</title>
+    <link>http://www.example.com/en/</link>
+    <description>Recent content on pesuruhjaya sumpah kuantan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ms</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://www.example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://www.example.com/en/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>http://www.example.com/en/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown  Link to heading   This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist  ## Min. : 4.0 Min. : 2.00  ## 1st Qu.:12.0 1st Qu.: 26.00  ## Median :15.0 Median : 36.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.example.com/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/about/</guid>
+      <description> Name: Tengku Hanim Syahmimi Bt Tengku Mokhtar Registration No: ASH 703 Education:  Master of Islamic Banking and Finance - MIBF, UiTM Bachelor of Science (Hons) - Financial Mathematics, USIM    </description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>http://www.example.com/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/contact/</guid>
+      <description>For any related services my office can be reached through:
+Put map here!
+Address:
+Phone No: Email:
+Social Media:
+ Facebook: Pesuruhjaya Sumpah Tg. Lumpur Instagram: @pesuruhjayasumpah_tglumpur  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://www.example.com/en/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/services/</guid>
+      <description>Below are the services that my office provides:</description>
+    </item>
+    
+  </channel>
+</rss>
