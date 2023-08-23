@@ -1,16 +1,16 @@
 baseURL: http://www.example.com
-title: johndoe
+title: pesuruhjaya sumpah kuantan
 theme: hugo-coder
-languageCode: en
-defaultContentLanguage: en
+languageCode: ms
+defaultContentLanguage: ms
 paginate: 20
 enableEmoji: yes
 markup:
   highlight:
     noClasses: no
 params:
-  author: John Doe
-  avatarURL: images/avatar.jpg
+  author: Tengku Hanim Syamimi Bt Tengku Mokhtar
+  avatarURL: images/avatar4.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
   customCSS: []
@@ -18,42 +18,24 @@ params:
   customRemoteJS: []
   customSCSS: []
   dateFormat: January 2, 2006
-  description: John Doe's personal website
+  description: pesuruhjaya sumpah kuantan's website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
+    - Oath Comissioner 
+    - Kuantan, Tanjung Lumpur and Inderapura
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
   since: 2019
   social:
-    - icon: fa fa-2x fa-github
-      name: Github
-      url: https://github.com/johndoe/
+    - icon: fa fa-3x fa-facebook
+      name: Facebook
+      url: https://www.facebook.com/profile.php?id=100090009496211
       weight: 1
-    - icon: fa fa-2x fa-gitlab
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
+    - icon: fa fa-3x fa-instagram
+      name: Instagram
+      url: https://www.instagram.com/pesuruhjayasumpah_tglumpur/
       weight: 2
-    - icon: fa fa-2x fa-twitter
-      name: Twitter
-      url: https://twitter.com/johndoe/
-      weight: 3
-    - icon: fa fa-2x fa-linkedin
-      name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
-      weight: 4
-    - icon: fa fa-2x fa-medium
-      name: Medium
-      url: https://medium.com/@johndoe
-      weight: 5
-    - icon: fa fa-2x fa-rss
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
 taxonomies:
   author: authors
   category: categories
@@ -61,40 +43,36 @@ taxonomies:
   tag: tags
 languages:
   en:
-    languageName: ':uk:'
+    languageName: 'English'
     menu:
       main:
-        - name: About
-          url: about/
+        - name: Services
+          url: services/
           weight: 1
-        - name: Blog
-          url: posts/
+        - name: About me
+          url: about/
           weight: 2
-        - name: Projects
-          url: projects/
-          weight: 3
         - name: Contact me
           url: contact/
-          weight: 5
-  pt-br:
-    languageName: ':brazil:'
+          weight: 3
+  ms:
+    languageName: 'Bahasa Melayu'
     menu:
       main:
-        - name: Sobre
-          url: about/
+        - name: Perkhidmatan
+          url: services/
           weight: 1
-        - name: Blog
-          url: posts/
+        - name: Tentang saya
+          url: about/
           weight: 2
-        - name: Projetos
-          url: projects/
-          weight: 3
-        - name: Contato
+        - name: Hubungi saya
           url: contact/
-          weight: 5
+          weight: 3
     params:
-      author: João Ninguém
-      description: Sítio pessoal de João Ninguém
-      info: Full Stack DevOps e Mágico
-      keywords: blog,desenvolvedor,pessoal
-    title: João Ninguém
+      author: Tengku Hanim Syamimi Bt Tengku Mokhtar
+      description: Pesuruhjaya Sumpah
+      info: 
+      - Pesuruhjaya Sumpah 
+      - Kuantan, Tanjung Lumpur dan Inderapura
+      keywords: pesuruhjaya sumpah, kuantan, tanjung lumpur, inderapura
+    title: Pesuruhjaya Sumpah Kuantan
