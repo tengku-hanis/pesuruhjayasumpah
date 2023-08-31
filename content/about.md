@@ -3,9 +3,11 @@ aliases:
 - about-us
 title: Tentang saya
 ---
-
-- Nama: Tengku Hanim Syahmimi Bt Tengku Mokhtar
-- No Pendaftaran: ASH 703
+![](/./about_files/smaller_mimi.jpg)
+- Nama: Tengku Hanim Syamimi Bt Tengku Mokhtar
+- No Pengenalan: C175
 - Pendidikan: 
-    - Master of Islamic Banking and Finance - MIBF, UiTM
-    - Bachelor of Science (Hons) - Financial Mathematics, USIM
+    - Sarjana Perbankan dan Kewangan Islam - MIBF, UiTM
+    - Sarjana Muda Sains (Kepujian) - Matematik Kewangan, USIM
+    - Sijil Pesuruhjaya Sumpah - Pejabat Ketua Pendaftar Mahkamah Persekutuan Malaysia
+    - Sijil Audit Shariah - Persatuan Cendekiawan Muda Shariah Malaysia
