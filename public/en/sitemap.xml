@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/en/categories/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/categories/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/posts/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/en/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="http://www.example.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/en/"
-                />
-  </url><url>
-    <loc>http://www.example.com/en/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/en/posts/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/posts/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/posts/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/r/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/en/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/en/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://www.example.com/en/tags/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/posts/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/tags/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/about/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/about/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/about/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/authors/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/authors/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/authors/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/contact/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/contact/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/contact/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/series/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/series/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/series/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/services/</loc>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="http://www.example.com/services/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/services/"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/series/"
+                />
+  </url><url>
+    <loc>https://pesuruhjayasumpahkuantan.netlify.app/en/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ms"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pesuruhjayasumpahkuantan.netlify.app/en/services/"
                 />
   </url>
 </urlset>

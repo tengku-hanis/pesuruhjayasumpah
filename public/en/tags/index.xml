@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on pesuruhjaya sumpah kuantan</title>
-    <link>http://www.example.com/en/tags/</link>
+    <link>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/</link>
     <description>Recent content in Tags on pesuruhjaya sumpah kuantan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://www.example.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://pesuruhjayasumpahkuantan.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>http://www.example.com/en/tags/plot/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.example.com/en/tags/plot/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://www.example.com/en/tags/r-markdown/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.example.com/en/tags/r-markdown/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>http://www.example.com/en/tags/regression/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.example.com/en/tags/regression/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/en/tags/regression/</guid>
       <description></description>
     </item>
     

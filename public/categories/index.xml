@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pesuruhjaya Sumpah Kuantan</title>
-    <link>http://www.example.com/categories/</link>
+    <link>https://pesuruhjayasumpahkuantan.netlify.app/categories/</link>
     <description>Recent content in Categories on Pesuruhjaya Sumpah Kuantan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ms</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pesuruhjayasumpahkuantan.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>demonstração do tema</title>
-      <link>http://www.example.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/categories/demonstra%C3%A7%C3%A3o-do-tema/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/categories/demonstra%C3%A7%C3%A3o-do-tema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categories/sintaxe/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/categories/sintaxe/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/sintaxe/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/categories/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme demo</title>
-      <link>http://www.example.com/categories/theme-demo/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/categories/theme-demo/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/categories/theme-demo/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/categories/theme-demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>http://www.example.com/categoria/temas/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/temas/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categoria/sintaxe/</link>
+      <link>https://pesuruhjayasumpahkuantan.netlify.app/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/sintaxe/</guid>
+      <guid>https://pesuruhjayasumpahkuantan.netlify.app/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
